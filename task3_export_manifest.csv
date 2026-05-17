@@ -1,0 +1,14 @@
+file,ppt_use
+Task3_demo.ipynb,Main reproducible prototype notebook
+synthetic_loan_data.csv,Synthetic lending data table
+monitoring_results.csv,Monitoring and drift table
+jurisdiction_compliance_report.csv,US/EU compliance comparison table
+model_performance_summary.csv,Model performance table
+fairness_metrics_summary.csv,Fairness metric table
+fairness_group_rates.csv,Group-level approval/FPR/FNR rates
+feature_importance.csv,Explainability table
+rejection_reasons_sample.csv,Example adverse-action style rejection reasons
+confusion_matrix.png,Model performance chart
+fairness_metrics.png,Fairness chart
+feature_importance.png,Explainability chart
+drift_monitoring.png,Drift monitoring chart
